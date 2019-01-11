@@ -23,7 +23,7 @@
     "react-scripts": "2.1.2"
   },
   "scripts": {
-    "webpack": "webpack",
+    "webpack": "webpack --mode=development",
     "start": "npm run webpack && nodemon --exec babel-node -- bin/www"
   },
   "eslintConfig": {

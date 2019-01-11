@@ -1,4 +1,4 @@
-//client/components/Update.js
+//client/component/Update.js
 
 import React from 'react';
 import Modal from 'react-modal';
